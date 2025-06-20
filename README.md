@@ -1,6 +1,6 @@
 # iStoX - Análisis Bursátil Inteligente
 
-![iStoX Logo](assets/logo.png) *(Recomendación: añadir logo cuando esté disponible)*
+
 
 ## 📌 Descripción
 
